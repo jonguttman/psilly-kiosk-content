@@ -1,0 +1,74 @@
+{
+  "STANDARD_TRAITS": [
+    "Energy",
+    "Creativity", 
+    "Focus",
+    "Euphoria",
+    "Visuals",
+    "Body"
+  ],
+  "MICRO_TRAITS": [
+    "Mood",
+    "Clarity",
+    "Productivity",
+    "Social",
+    "Relaxation",
+    "Awareness"
+  ],
+  "STRAINS": {
+    "Golden Teacher": {
+      "color": {
+        "bg": "rgba(255, 223, 186, 255)",
+        "border": "rgba(218, 165, 32, 255)"
+      },
+      "Micro": {
+        "Energy": 3,
+        "Creativity": 4,
+        "Focus": 5,
+        "Euphoria": 2,
+        "Visuals": 1,
+        "Body": 2
+      },
+      "Mini": {
+        "Energy": 4,
+        "Creativity": 5,
+        "Focus": 4,
+        "Euphoria": 3,
+        "Visuals": 2,
+        "Body": 3
+      },
+      "Macro": {
+        "Energy": 5,
+        "Creativity": 6,
+        "Focus": 3,
+        "Euphoria": 5,
+        "Visuals": 4,
+        "Body": 4
+      },
+      "Museum": {
+        "Energy": 4,
+        "Creativity": 7,
+        "Focus": 2,
+        "Euphoria": 6,
+        "Visuals": 6,
+        "Body": 5
+      },
+      "Mega": {
+        "Energy": 3,
+        "Creativity": 8,
+        "Focus": 1,
+        "Euphoria": 7,
+        "Visuals": 8,
+        "Body": 6
+      },
+      "Hero": {
+        "Energy": 2,
+        "Creativity": 9,
+        "Focus": 1,
+        "Euphoria": 9,
+        "Visuals": 10,
+        "Body": 7
+      }
+    }
+  }
+}
