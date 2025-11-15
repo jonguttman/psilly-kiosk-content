@@ -1,0 +1,228 @@
+{
+  "attract": {
+    "title": "Unlock the Magic Within",
+    "subtitle": [
+      "A place where nature, art,",
+      "and consciousness intertwine"
+    ],
+    "buttonText": "Enter the Apothecary",
+    "rotatingMessages": [
+      {
+        "title": "Discover Your Psilly State",
+        "subtitle": "Explore natural psilocybin varieties"
+      },
+      {
+        "title": "Find Your Flow",
+        "subtitle": "Safe, evidence-based guidance"
+      },
+      {
+        "title": "Feel the Magic",
+        "subtitle": "Join the Psilly community"
+      },
+      {
+        "title": "Explore the Unknown",
+        "subtitle": "Journey to higher consciousness"
+      }
+    ]
+  },
+  "home": {
+    "title": "Psilly Apothecary",
+    "subtitle": "Choose the ritual that speaks to you",
+    "footer": "Warm, attentive guidance awaits",
+    "buttons": [
+      {
+        "label": "Explore\nEffects",
+        "icon": "⚘",
+        "target": "EXPLORE"
+      },
+      {
+        "label": "Find Your\nDose",
+        "icon": "⬆",
+        "target": "DOSAGE"
+      },
+      {
+        "label": "FAQs &\nSafety",
+        "icon": "◈",
+        "target": "FAQ"
+      },
+      {
+        "label": "Follow\n& Ask",
+        "icon": "◎",
+        "target": "FOLLOW"
+      }
+    ]
+  },
+  "explore": {
+    "title": "Explore Effects",
+    "subtitle": "Curated botanicals, moodfully described",
+    "emptyStateText": "Select a strain above for details",
+    "detailCallToAction": "[ Tap for Dosage Guide ]",
+    "chips": [
+      {
+        "label": "Create",
+        "color": "accent"
+      },
+      {
+        "label": "Energize",
+        "color": "energize"
+      },
+      {
+        "label": "Connect",
+        "color": "connect"
+      },
+      {
+        "label": "Transform",
+        "color": "transform"
+      },
+      {
+        "label": "Transcendent",
+        "color": "transcend"
+      }
+    ],
+    "strains": [
+      {
+        "name": "Golden Teacher",
+        "tag": "Create",
+        "color": "accent",
+        "bullets": [
+          "Bright focus",
+          "Soft body lift",
+          "Solo or duo"
+        ],
+        "blurb": "Gentle uplift for idea jams and journaling.",
+        "pairs": "chai tea, lo-fi beats, sunrise walks"
+      },
+      {
+        "name": "Amazonian",
+        "tag": "Energize",
+        "color": "energize",
+        "bullets": [
+          "Sociable buzz",
+          "Aligned posture",
+          "Daytime"
+        ],
+        "blurb": "Keeps conversations buoyant without edgy peaks.",
+        "pairs": "matcha, farmer's markets, playlists"
+      },
+      {
+        "name": "Full Moon Party",
+        "tag": "Connect",
+        "color": "connect",
+        "bullets": [
+          "Heart-open",
+          "Group oriented",
+          "Playful"
+        ],
+        "blurb": "Shared giggles, story trading, easy eye contact.",
+        "pairs": "mocktails, candles, soft seating"
+      },
+      {
+        "name": "Penis Envy",
+        "tag": "Transform",
+        "color": "transform",
+        "bullets": [
+          "Deep dive",
+          "Body waves",
+          "Intentional"
+        ],
+        "blurb": "Reserved for guided nights with space to feel.",
+        "pairs": "breathwork, warm blankets, ambient"
+      },
+      {
+        "name": "Enigma",
+        "tag": "Transcendent",
+        "color": "transcend",
+        "bullets": [
+          "Weightless calm",
+          "Long arc",
+          "Sacred"
+        ],
+        "blurb": "Quiet cosmic clarity—ideal for ceremonies.",
+        "pairs": "meditation, strings, stargazing"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage Guide",
+    "subtitle": "Find your tone and honor each experience",
+    "intensityLabel": "Intensity",
+    "tipsLabel": "Tips",
+    "sliderLabels": ["Micro", "Low", "Mod", "High", "Hero"],
+    "levels": [
+      {
+        "title": "Micro-Dose",
+        "who": "First-timers, daily life",
+        "feel": "Subtle clarity, gentle mood lift, creativity boost",
+        "tips": "Sub-perceptual, safe for work/social"
+      },
+      {
+        "title": "Low",
+        "who": "Beginners, weekend explorer",
+        "feel": "Noticeable euphoria, enhanced colors, giggly",
+        "tips": "2-4 hours, comfortable setting"
+      },
+      {
+        "title": "Moderate",
+        "who": "Experienced users",
+        "feel": "Immersive visuals, soft ego dissolve, deep feelings",
+        "tips": "4-6 hours, clear schedule, trusted space"
+      },
+      {
+        "title": "High",
+        "who": "Advanced explorers",
+        "feel": "Intense visuals, profound insights, reality shifts",
+        "tips": "6+ hours, sitter recommended, intention-setting"
+      },
+      {
+        "title": "Hero",
+        "who": "Ceremonial/Guided only",
+        "feel": "Ego death, time dilation, cosmic unity, life-changing",
+        "tips": "Experienced sitter required, surrender mindset"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ & Safety",
+    "subtitle": "Answers grounded in ritual care",
+    "items": [
+      {
+        "question": "What should I expect?",
+        "answer": "Warm waves, heighted senses, feelings flow in cycles."
+      },
+      {
+        "question": "How do I start?",
+        "answer": "Choose a calm space, breathe, begin with a micro dose."
+      },
+      {
+        "question": "Can I mix with alcohol?",
+        "answer": "We don't recommend it. Keep the experience clean."
+      },
+      {
+        "question": "How long does it last?",
+        "answer": "Plan 4–6 hours from onset. Some afterglow may linger."
+      },
+      {
+        "question": "When not to use?",
+        "answer": "Skip if pregnant, on SSRIs, or feeling unsettled."
+      },
+      {
+        "question": "Emergency / not feeling well?",
+        "answer": "Sit, sip water, name what's present, ask support."
+      }
+    ]
+  },
+  "follow": {
+    "title": "Follow & Ask",
+    "subtitle": "Scan, share, and send your curiosities",
+    "qrLabel": "Scan to follow @get_psilly",
+    "formTitle": "Ask the Apothecary",
+    "emailPlaceholder": "you@example.com",
+    "messagePlaceholder": "Tell us a little about your journey...",
+    "submitButton": "Send Request",
+    "successMessage": "Thanks! check your inbox soon."
+  },
+  "navigation": {
+    "backButton": "< Back",
+    "brandName": "Psilly"
+  }
+}
