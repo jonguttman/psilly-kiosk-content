@@ -1,40 +1,71 @@
 {
+  "version": "1.0.0",
   "strains": [
     {
       "name": "Golden Teacher",
-      "blurb": "Balanced visuals and introspection with glowing euphoria.",
-      "details": "Golden Teacher offers a classic, uplifting experience with warm euphoria, gentle visuals, and a reflective headspace.",
-      "products": ["Apollo", "Pantheon Capsules", "Honey Stix"]
-    },
-    {
-      "name": "Full Moon Party",
-      "blurb": "High-energy social boost with bright visuals and creative flow.",
-      "details": "Full Moon Party enhances sociability, creativity, and sensory vividness — a perfect choice for social settings or high-energy environments.",
-      "products": ["Pandora", "Party Mix Gummies"]
-    },
-    {
-      "name": "Penis Envy",
-      "blurb": "Deep introspection, strong body sensations, and emotional depth.",
-      "details": "Penis Envy is one of the most potent strains, offering intense introspection, powerful body energy, and ego-deepening experiences.",
-      "products": ["Aphrodite", "Hercules 1g Packs"]
-    },
-    {
-      "name": "Enigma",
-      "blurb": "Transcendent, dream-logic visuals with shifting perception.",
-      "details": "Enigma produces surreal, Inception-like visuals and non-linear thought patterns. A deeply immersive, mind-bending strain.",
-      "products": ["Mystic Matcha", "Hercules 1g Packs"]
-    },
-    {
-      "name": "Cambodian",
-      "blurb": "Clean, energetic clarity with a grounded emotional profile.",
-      "details": "Cambodian is known for its bright clarity and stable mood lift — minimal body load, highly functional, and great for daytime exploration.",
-      "products": ["Morning Blend Tea", "Mighty Caps"]
+      "keyword": "Create",
+      "radar": {
+        "visuals": 6,
+        "body": 5,
+        "energy": 5,
+        "creativity": 7,
+        "euphoria": 6
+      }
     },
     {
       "name": "Amazonian",
-      "blurb": "Energizing uplift with earthy emotional tones and enhanced focus.",
-      "details": "Amazonian boosts energy, motivation, and sensory awareness while maintaining a grounded emotional center.",
-      "products": ["Amazonian Capsules", "Hercules 1g Packs"]
+      "keyword": "Energize",
+      "radar": {
+        "visuals": 6,
+        "body": 4,
+        "energy": 9,
+        "creativity": 5,
+        "euphoria": 6
+      }
+    },
+    {
+      "name": "Full Moon Party",
+      "keyword": "Connect",
+      "radar": {
+        "visuals": 5,
+        "body": 6,
+        "energy": 6,
+        "creativity": 5,
+        "euphoria": 8
+      }
+    },
+    {
+      "name": "Penis Envy",
+      "keyword": "Transform",
+      "radar": {
+        "visuals": 8,
+        "body": 7,
+        "energy": 3,
+        "creativity": 4,
+        "euphoria": 9
+      }
+    },
+    {
+      "name": "Enigma",
+      "keyword": "Transcendent",
+      "radar": {
+        "visuals": 10,
+        "body": 5,
+        "energy": 3,
+        "creativity": 7,
+        "euphoria": 8
+      }
+    },
+    {
+      "name": "Cambodian",
+      "keyword": "Focus",
+      "radar": {
+        "visuals": 4,
+        "body": 4,
+        "energy": 6,
+        "creativity": 5,
+        "euphoria": 5
+      }
     }
   ]
 }
