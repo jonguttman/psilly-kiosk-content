@@ -1,74 +1,40 @@
 {
-  "STANDARD_TRAITS": [
-    "Energy",
-    "Creativity", 
-    "Focus",
-    "Euphoria",
-    "Visuals",
-    "Body"
-  ],
-  "MICRO_TRAITS": [
-    "Mood",
-    "Clarity",
-    "Productivity",
-    "Social",
-    "Relaxation",
-    "Awareness"
-  ],
-  "STRAINS": {
-    "Golden Teacher": {
-      "color": {
-        "bg": "rgba(255, 223, 186, 255)",
-        "border": "rgba(218, 165, 32, 255)"
-      },
-      "Micro": {
-        "Energy": 3,
-        "Creativity": 4,
-        "Focus": 5,
-        "Euphoria": 2,
-        "Visuals": 1,
-        "Body": 2
-      },
-      "Mini": {
-        "Energy": 4,
-        "Creativity": 5,
-        "Focus": 4,
-        "Euphoria": 3,
-        "Visuals": 2,
-        "Body": 3
-      },
-      "Macro": {
-        "Energy": 5,
-        "Creativity": 6,
-        "Focus": 3,
-        "Euphoria": 5,
-        "Visuals": 4,
-        "Body": 4
-      },
-      "Museum": {
-        "Energy": 4,
-        "Creativity": 7,
-        "Focus": 2,
-        "Euphoria": 6,
-        "Visuals": 6,
-        "Body": 5
-      },
-      "Mega": {
-        "Energy": 3,
-        "Creativity": 8,
-        "Focus": 1,
-        "Euphoria": 7,
-        "Visuals": 8,
-        "Body": 6
-      },
-      "Hero": {
-        "Energy": 2,
-        "Creativity": 9,
-        "Focus": 1,
-        "Euphoria": 9,
-        "Visuals": 10,
-        "Body": 7
-      }
+  "strains": [
+    {
+      "name": "Golden Teacher",
+      "blurb": "Balanced visuals and introspection with glowing euphoria.",
+      "details": "Golden Teacher offers a classic, uplifting experience with warm euphoria, gentle visuals, and a reflective headspace.",
+      "products": ["Apollo", "Pantheon Capsules", "Honey Stix"]
+    },
+    {
+      "name": "Full Moon Party",
+      "blurb": "High-energy social boost with bright visuals and creative flow.",
+      "details": "Full Moon Party enhances sociability, creativity, and sensory vividness — a perfect choice for social settings or high-energy environments.",
+      "products": ["Pandora", "Party Mix Gummies"]
+    },
+    {
+      "name": "Penis Envy",
+      "blurb": "Deep introspection, strong body sensations, and emotional depth.",
+      "details": "Penis Envy is one of the most potent strains, offering intense introspection, powerful body energy, and ego-deepening experiences.",
+      "products": ["Aphrodite", "Hercules 1g Packs"]
+    },
+    {
+      "name": "Enigma",
+      "blurb": "Transcendent, dream-logic visuals with shifting perception.",
+      "details": "Enigma produces surreal, Inception-like visuals and non-linear thought patterns. A deeply immersive, mind-bending strain.",
+      "products": ["Mystic Matcha", "Hercules 1g Packs"]
+    },
+    {
+      "name": "Cambodian",
+      "blurb": "Clean, energetic clarity with a grounded emotional profile.",
+      "details": "Cambodian is known for its bright clarity and stable mood lift — minimal body load, highly functional, and great for daytime exploration.",
+      "products": ["Morning Blend Tea", "Mighty Caps"]
+    },
+    {
+      "name": "Amazonian",
+      "blurb": "Energizing uplift with earthy emotional tones and enhanced focus.",
+      "details": "Amazonian boosts energy, motivation, and sensory awareness while maintaining a grounded emotional center.",
+      "products": ["Amazonian Capsules", "Hercules 1g Packs"]
     }
-  }
+  ]
 }
