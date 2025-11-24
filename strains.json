@@ -1,164 +1,40 @@
 {
-  "doses": ["micro", "mini", "macro", "museum", "mega", "hero"],
-  "axes": ["visuals", "euphoria", "introspection", "creativity", "spiritual_depth", "sociability"],
-
-  "strains": {
-    "Golden Teacher": {
-      "radar": {
-        "visuals":         [10, 30, 55, 70, 75, 75],
-        "euphoria":        [20, 45, 70, 78, 60, 40],
-        "introspection":   [25, 45, 70, 85, 90, 95],
-        "creativity":      [30, 60, 80, 75, 55, 30],
-        "spiritual_depth": [10, 30, 55, 80, 90, 95],
-        "sociability":     [65, 90, 85, 30, 10, 3]
-      },
-
-      "blurb": {
-        "micro": "Clean, uplifted clarity with a gentle emotional lift.",
-        "mini": "Warm, friendly energy with a creative spark.",
-        "macro": "Balanced visuals and introspection with glowing euphoria.",
-        "museum": "Classic Golden Teacher journey — vivid, wise, and heart-centered.",
-        "mega": "Deeply introspective with pronounced emotional insight.",
-        "hero": "A profound ego-softening journey rooted in warmth and spiritual openness."
-      },
-
-      "details": {
-        "micro": "Golden Teacher microdoses offer clean, bright mental clarity with a gentle boost in optimism and emotional balance. Perfect for productivity, creativity, and mood regulation.",
-        "mini": "A mini-dose enhances color, warmth, and sociability—great for creativity or mindful outings.",
-        "macro": "Expect soft visuals, emotional insight, and creativity. A perfect entry-level journey.",
-        "museum": "A fuller Golden Teacher experience: flowing visuals, meaning-making, and emotional connection.",
-        "mega": "Introspective, spiritually resonant, and deeply personal. You may explore buried emotions.",
-        "hero": "Classic 'teacher' energy: ego dissolution and a profound sense of guidance or inner wisdom."
-
-      },
-
-      "products": {
-        "micro": ["Apollo 200mg", "Aphrodite 200mg"],
-        "mini": ["Apollo 2-pack", "Psilly Stix"],
-        "macro": ["Mighty Caps 0.75g"],
-        "museum": ["Hercules GT 1g"],
-        "mega": ["Hercules GT 2-pack"],
-        "hero": ["Hercules GT 5-pack"]
-      }
+  "strains": [
+    {
+      "name": "Golden Teacher",
+      "blurb": "Balanced visuals and introspection with glowing euphoria.",
+      "details": "Golden Teacher offers a classic, uplifting experience with warm euphoria, gentle visuals, and a reflective headspace.",
+      "products": ["Apollo", "Pantheon Capsules", "Honey Stix"]
     },
-
-
-    "Penis Envy": {
-      "radar": {
-        "visuals":         [20, 45, 65, 85, 95, 100],
-        "euphoria":        [15, 35, 55, 65, 45, 20],
-        "introspection":   [35, 60, 80, 95, 100, 100],
-        "creativity":      [20, 45, 55, 30, 15, 5],
-        "spiritual_depth": [25, 45, 70, 95, 100, 100],
-        "sociability":     [40, 55, 25, 8, 3, 1]
-      },
-
-      "blurb": {
-        "micro": "Deep focus with a grounded, body-centered clarity.",
-        "mini": "Calm introspection with subtle emotional depth.",
-        "macro": "Strong body sensations and inward reflection.",
-        "museum": "Profound insights and rich sensory detail.",
-        "mega": "Heavy introspection and deep emotional processing.",
-        "hero": "One of the most intense journeys available—ego dissolution is common."
-
-      },
-
-      "details": {
-        "micro": "Penis Envy microdoses bring a grounded clarity with a slightly more somatic presence than other strains.",
-        "mini": "Expect emotional depth and calm thinking, ideal for journaling or quiet reflection.",
-        "macro": "Body sensations intensify along with deep self-examination.",
-        "museum": "Strong visuals, emotional catharsis, and meaning-rich inner work.",
-        "mega": "A powerful inward-facing journey where profound realizations surface.",
-        "hero": "This is a full surrender dose—expect ego-death territory and intense spiritual insight."
-
-      },
-
-      "products": {
-        "micro": ["Aphrodite PE 200mg"],
-        "mini": ["Aphrodite 2-pack"],
-        "macro": ["Hercules PE 1g"],
-        "museum": ["Hercules PE 2-pack"],
-        "mega": ["Hercules PE 4-pack"],
-        "hero": ["Hercules PE 5-pack"]
-      }
+    {
+      "name": "Full Moon Party",
+      "blurb": "High-energy social boost with bright visuals and creative flow.",
+      "details": "Full Moon Party enhances sociability, creativity, and sensory vividness — a perfect choice for social settings or high-energy environments.",
+      "products": ["Pandora", "Party Mix Gummies"]
     },
-
-
-    "Amazonian": {
-      "radar": {
-        "visuals":         [25, 55, 75, 85, 95, 100],
-        "euphoria":        [30, 55, 75, 85, 70, 45],
-        "introspection":   [25, 40, 60, 80, 95, 100],
-        "creativity":      [35, 65, 80, 70, 50, 30],
-        "spiritual_depth": [20, 35, 60, 85, 95, 100],
-        "sociability":     [55, 75, 70, 40, 15, 5]
-      },
-
-      "blurb": {
-        "micro": "Energetic clarity with a bright, motivating lift.",
-        "mini": "A social, euphoric spark with enhanced colors.",
-        "macro": "Bold visuals and uplifting emotional energy.",
-        "museum": "Expansive, adventurous, and vibrant.",
-        "mega": "Strong visuals with meaningful introspective weight.",
-        "hero": "A full-spectrum mystical voyage with cosmic depth."
-      },
-
-      "details": {
-        "micro": "Amazonian microdoses create a crisp mental uplift—ideal for physical activity and creativity.",
-        "mini": "Expect a euphoric boost, bright colors, and a socially easygoing effect.",
-        "macro": "A psychedelic sweet spot with clear visuals and energized exploration.",
-        "museum": "Adventure mode—expect vibrant visuals and a sense of exploration.",
-        "mega": "A strong, emotional, spiritually meaningful journey.",
-        "hero": "A deep cosmic encounter with vibrant visuals and intense spiritual depth."
-      },
-
-      "products": {
-        "micro": ["Apollo Amazonian 200mg"],
-        "mini": ["Apollo 2-pack"],
-        "macro": ["Hercules AMAZ 1g"],
-        "museum": ["Hercules AMAZ 2-pack"],
-        "mega": ["Hercules AMAZ 4-pack"],
-        "hero": ["Hercules AMAZ 5-pack"]
-      }
+    {
+      "name": "Penis Envy",
+      "blurb": "Deep introspection, strong body sensations, and emotional depth.",
+      "details": "Penis Envy is one of the most potent strains, offering intense introspection, powerful body energy, and ego-deepening experiences.",
+      "products": ["Aphrodite", "Hercules 1g Packs"]
     },
-
-
-    "Enigma": {
-      "radar": {
-        "visuals":         [15, 30, 55, 75, 90, 100],
-        "euphoria":        [15, 30, 45, 55, 40, 20],
-        "introspection":   [35, 55, 75, 95, 100, 100],
-        "creativity":      [20, 40, 60, 50, 30, 10],
-        "spiritual_depth": [30, 50, 75, 95, 100, 100],
-        "sociability":     [50, 60, 30, 10, 3, 1]
-      },
-
-      "blurb": {
-        "micro": "Clean focus with a dreamy undertone.",
-        "mini": "A surreal creative buzz with light visuals.",
-        "macro": "Reality-bending perspectives and gentle euphoria.",
-        "museum": "Inception-like distortions and deep surreal insight.",
-        "mega": "Waves of visual distortion and profound emotional depth.",
-        "hero": "A multidimensional, transcendent, time-dilating journey."
-      },
-
-      "details": {
-        "micro": "Enigma microdoses feel crisp and slightly dreamy, good for creative tasks.",
-        "mini": "A surreal creative mood with gentle bending of perception.",
-        "macro": "The classic Enigma warp—soft visuals and unusual thought patterns.",
-        "museum": "Expect identity-looping, dreamlike themes, and surreal insights.",
-        "mega": "Vivid distortions, emotional depth, and nonlinear time.",
-        "hero": "A transcendent, multidimensional experience—very ‘Inception’ in tone."
-      },
-
-      "products": {
-        "micro": ["Pandora Enigma 200mg"],
-        "mini": ["Pandora 2-pack"],
-        "macro": ["Hercules Enigma 1g"],
-        "museum": ["Hercules Enigma 2-pack"],
-        "mega": ["Hercules Enigma 4-pack"],
-        "hero": ["Hercules Enigma 5-pack"]
-      }
+    {
+      "name": "Enigma",
+      "blurb": "Transcendent, dream-logic visuals with shifting perception.",
+      "details": "Enigma produces surreal, Inception-like visuals and non-linear thought patterns. A deeply immersive, mind-bending strain.",
+      "products": ["Mystic Matcha", "Hercules 1g Packs"]
+    },
+    {
+      "name": "Cambodian",
+      "blurb": "Clean, energetic clarity with a grounded emotional profile.",
+      "details": "Cambodian is known for its bright clarity and stable mood lift — minimal body load, highly functional, and great for daytime exploration.",
+      "products": ["Morning Blend Tea", "Mighty Caps"]
+    },
+    {
+      "name": "Amazonian",
+      "blurb": "Energizing uplift with earthy emotional tones and enhanced focus.",
+      "details": "Amazonian boosts energy, motivation, and sensory awareness while maintaining a grounded emotional center.",
+      "products": ["Amazonian Capsules", "Hercules 1g Packs"]
     }
-  }
+  ]
 }
