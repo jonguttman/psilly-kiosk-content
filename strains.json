@@ -2,39 +2,39 @@
   "strains": [
     {
       "name": "Golden Teacher",
-      "blurb": "Balanced visuals and introspection with glowing euphoria.",
-      "details": "Golden Teacher offers a classic, uplifting experience with warm euphoria, gentle visuals, and a reflective headspace.",
-      "products": ["Apollo", "Pantheon Capsules", "Honey Stix"]
-    },
-    {
-      "name": "Full Moon Party",
-      "blurb": "High-energy social boost with bright visuals and creative flow.",
-      "details": "Full Moon Party enhances sociability, creativity, and sensory vividness — a perfect choice for social settings or high-energy environments.",
-      "products": ["Pandora", "Party Mix Gummies"]
+      "summary": "Balanced visuals and introspection with glowing euphoria.",
+      "details": "Golden Teacher offers a gentle yet insightful psychedelic experience, ideal for creativity and emotional clarity.",
+      "products": []
     },
     {
       "name": "Penis Envy",
-      "blurb": "Deep introspection, strong body sensations, and emotional depth.",
-      "details": "Penis Envy is one of the most potent strains, offering intense introspection, powerful body energy, and ego-deepening experiences.",
-      "products": ["Aphrodite", "Hercules 1g Packs"]
+      "summary": "Deep introspection, intense body sensations, and transformative insight.",
+      "details": "Penis Envy is known for its strong potency and profound emotional breakthroughs.",
+      "products": []
+    },
+    {
+      "name": "Full Moon Party",
+      "summary": "Euphoric, sociable, and high-energy with bright emotional lift.",
+      "details": "A lively and stimulating strain ideal for music, dance, and sensory expansion.",
+      "products": []
     },
     {
       "name": "Enigma",
-      "blurb": "Transcendent, dream-logic visuals with shifting perception.",
-      "details": "Enigma produces surreal, Inception-like visuals and non-linear thought patterns. A deeply immersive, mind-bending strain.",
-      "products": ["Mystic Matcha", "Hercules 1g Packs"]
-    },
-    {
-      "name": "Cambodian",
-      "blurb": "Clean, energetic clarity with a grounded emotional profile.",
-      "details": "Cambodian is known for its bright clarity and stable mood lift — minimal body load, highly functional, and great for daytime exploration.",
-      "products": ["Morning Blend Tea", "Mighty Caps"]
+      "summary": "Transcendent, otherworldly effects with dreamlike visuals.",
+      "details": "A unique strain that unfolds in waves of layered perception and surreal clarity.",
+      "products": []
     },
     {
       "name": "Amazonian",
-      "blurb": "Energizing uplift with earthy emotional tones and enhanced focus.",
-      "details": "Amazonian boosts energy, motivation, and sensory awareness while maintaining a grounded emotional center.",
-      "products": ["Amazonian Capsules", "Hercules 1g Packs"]
+      "summary": "Energizing, upbeat, and grounding with clear mental focus.",
+      "details": "A reliable strain for productivity, nature walks, and deep connection.",
+      "products": []
+    },
+    {
+      "name": "Cambodian",
+      "summary": "Bright, clean headspace with light euphoria and creativity.",
+      "details": "Cambodian offers clarity and uplift without overwhelming visuals.",
+      "products": []
     }
   ]
 }
