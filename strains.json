@@ -2,39 +2,51 @@
   "strains": [
     {
       "name": "Golden Teacher",
-      "summary": "Balanced visuals and introspection with glowing euphoria.",
-      "details": "Golden Teacher offers a gentle yet insightful psychedelic experience, ideal for creativity and emotional clarity.",
-      "products": []
+      "word": "Create",
+      "blurb": "Balanced, uplifting, and deeply introspective without overpowering intensity.",
+      "details": "Golden Teacher offers a warm, insightful experience with gentle visuals, emotional clarity, and an approachable headspace ideal for beginners or creative exploration.",
+      "products": ["Apollo Microdose", "Apollo Capsules", "Hercules GT 1g"],
+      "radar": [60, 70, 50, 85, 55]
     },
     {
       "name": "Penis Envy",
-      "summary": "Deep introspection, intense body sensations, and transformative insight.",
-      "details": "Penis Envy is known for its strong potency and profound emotional breakthroughs.",
-      "products": []
-    },
-    {
-      "name": "Full Moon Party",
-      "summary": "Euphoric, sociable, and high-energy with bright emotional lift.",
-      "details": "A lively and stimulating strain ideal for music, dance, and sensory expansion.",
-      "products": []
+      "word": "Transform",
+      "blurb": "Powerful, introspective, and deeply embodied with pronounced emotional depth.",
+      "details": "This high-potency strain produces strong body sensations, immersive music perception, and heavy introspection. Best suited for experienced users seeking ego-softening or transformative journeys.",
+      "products": ["Aphrodite Microdose", "Aphrodite Capsules", "Hercules PE 1g"],
+      "radar": [75, 85, 90, 40, 95]
     },
     {
       "name": "Enigma",
-      "summary": "Transcendent, otherworldly effects with dreamlike visuals.",
-      "details": "A unique strain that unfolds in waves of layered perception and surreal clarity.",
-      "products": []
+      "word": "Transcendent",
+      "blurb": "Otherworldly, dreamy, and reality-bending with soft but surreal visuals.",
+      "details": "Enigma produces nonlinear thinking, dimensional distortion, and imaginative scene-shifts. Great for users seeking a mystical, cinematic, or metaphysical experience.",
+      "products": ["Pandora Enigma Micro", "Pandora Enigma Capsules", "Hercules Enigma 1g"],
+      "radar": [85, 60, 40, 95, 80]
+    },
+    {
+      "name": "Full Moon Party",
+      "word": "Connect",
+      "blurb": "Energetic, social, vibey, and music-forward with glowing visual enhancement.",
+      "details": "Designed for movement, connection, dance, and festival-style energy. Enhances rhythm perception, sociability, and sensory sparkle.",
+      "products": ["Social Glow Micro", "Full Moon Party Capsules", "Hercules FMP 1g"],
+      "radar": [70, 75, 45, 65, 60]
     },
     {
       "name": "Amazonian",
-      "summary": "Energizing, upbeat, and grounding with clear mental focus.",
-      "details": "A reliable strain for productivity, nature walks, and deep connection.",
-      "products": []
+      "word": "Energize",
+      "blurb": "Bright, upbeat, and mentally stimulating with a clean body profile.",
+      "details": "Amazonian delivers a lively, active headspace with crisp visuals and a smooth, functional body load—excellent for daytime outdoor adventures.",
+      "products": ["Amazonian Energy Micro", "Amazonian Capsules", "Hercules Amazon 1g"],
+      "radar": [55, 65, 35, 70, 50]
     },
     {
       "name": "Cambodian",
-      "summary": "Bright, clean headspace with light euphoria and creativity.",
-      "details": "Cambodian offers clarity and uplift without overwhelming visuals.",
-      "products": []
+      "word": "Expand",
+      "blurb": "Clear, bright, and horizon-widening with light visuals and high mental clarity.",
+      "details": "Cambodian is known for its clean, mentally spacious effect—great for meditation, nature walks, and deep thought without heavy body sensations.",
+      "products": ["Cambodian Clarity Micro", "Cambodian Capsules", "Hercules Cambodian 1g"],
+      "radar": [50, 55, 30, 80, 45]
     }
   ]
 }
